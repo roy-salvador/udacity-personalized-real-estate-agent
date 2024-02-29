@@ -1,0 +1,13 @@
+# Existing Repository Requirements
+langchain==0.1.9
+openai==0.28.1
+pydantic>=1.10.12
+pytest>=7.4.0
+sentence-transformers>=2.2.0
+transformers>=4.31.0
+chromadb==0.4.18
+jupyter==1.0.0
+gradio==4.19.2
+diffusers==0.26.3
+langchain_experimental==0.0.52 
+open_clip_torch==2.24.0
